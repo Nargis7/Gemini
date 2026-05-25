@@ -143,14 +143,6 @@ http://localhost:5173
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40c1e4a7-c0fc-4151-90e9-b391094ca612" />
 
-Example:
-
-```bash
-
-
-```
-
----
 
 
 
@@ -161,8 +153,3 @@ Example:
 - GitHub: https://github.com/Nargis7
 - LinkedIn: https://www.linkedin.com/in/nargis-p-511bab27b
 
-
-
-If you like this project, give it a ⭐ on GitHub and support the project.
-
-```
