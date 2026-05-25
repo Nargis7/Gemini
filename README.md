@@ -80,7 +80,7 @@ gemini-clone/
 ## 1️⃣ Clone the Repository
 
 ```bash
-
+git clone https://github.com/Nargis7/Gemini.git
 ```
 
 ---
@@ -141,12 +141,12 @@ http://localhost:5173
 
 # 📸 Project Preview
 
-Add screenshots of your project here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40c1e4a7-c0fc-4151-90e9-b391094ca612" />
 
 Example:
 
 ```bash
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40c1e4a7-c0fc-4151-90e9-b391094ca612" />
+
 
 ```
 
